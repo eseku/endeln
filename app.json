@@ -1,0 +1,12 @@
+{
+  "name": "endeln",
+  "displayName": "endeln",
+  "expo": {
+    "name": "endeln",
+    "slug": "endeln",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
