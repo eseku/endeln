@@ -71,14 +71,14 @@ function CurrentEnergyLevel(props) {
             Afternoon Energy Recharge
           </Text>
           <Image
-            source={require("../../assets/pngs/data-wave.png")}
+            source={require("../../assets/pngs/radio-waves.png")}
             style={{
               height: 100,
-              width: 350,
+              width: 300,
               borderWidth: 0,
               borderColor: "white",
               marginVertical: 60,
-              resizeMode: "stretch",
+              resizeMode: "contain",
             }}
           />
         </View>
